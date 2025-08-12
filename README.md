@@ -61,17 +61,10 @@
 ###
 
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=justseslo&theme=merko&hide_border=true&include_all_commits=false&count_private=false)
-  ![](https://nirzak-streak-stats.vercel.app/?user=justseslo&theme=merko&hide_border=true)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=justseslo&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=justseslo&theme=merko&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=justseslo&theme=merko&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justseslo&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justseslo/justseslo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justseslo/justseslo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/justseslo/justseslo/output/pacman-contribution-graph.svg">
-</picture>
-
-###
