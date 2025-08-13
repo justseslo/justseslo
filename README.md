@@ -61,9 +61,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justseslo&theme=merko&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=justseslo&theme=merko&hide_border=false&include_all_commits=true&count_private=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=justseslo&theme=merko&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justseslo&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justseslo&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
 ###
