@@ -60,9 +60,9 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justseslo&show_icons=true&theme=chartreuse-dark&hide_title=true&count_private=true&include_all_commits=true" height="135" style="border-radius:8px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justseslo&layout=compact&langs_count=6&include_all_commits=true&theme=chartreuse-dark" height="135" style="border-radius:8px;"/>
-  <img src="https://streak-stats.demolab.com?user=justseslo&theme=chartreuse-dark" height="135" style="border-radius:8px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=justseslo&show_icons=true&theme=chartreuse-dark&hide_title=true&count_private=true&include_all_commits=true" height="135" style="border-radius:7px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justseslo&layout=compact&langs_count=6&include_all_commits=true&theme=chartreuse-dark" height="135" style="border-radius:7px;"/>
+  <img src="https://streak-stats.demolab.com?user=justseslo&theme=chartreuse-dark" height="135" style="border-radius:7px;"/>
 </div>
 
 ###
